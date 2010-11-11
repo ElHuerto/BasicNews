@@ -1,0 +1,7 @@
+.textoCita {font-weight:bold;padding:0 0 0 10px;font:11pt verdana;color:#0099ff;}
+.cita {font:9pt verdana;background-color:#0099FF;border:1px #333333 solid;color:#333333;width:500px;}
+.textoCodigo {font-weight:bold;padding:0 0 0 10px;font:11pt verdana;color:#666666;}
+.codigo {font:9pt courier new;background-color:#666666;border:1px #333333 solid;color:#333333;width:500px;}
+#wrapper {width:1000px;margin:0 auto;}
+#categorias {width:100px;float:left;}
+#contenido {width:880px;float:right;}
